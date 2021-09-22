@@ -24,6 +24,7 @@ Component Progress:
         - help /w sass
 
 Raised Questions:
+
     - why sass?
     - how to store data text in liquid
     - 
