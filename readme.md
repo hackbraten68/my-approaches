@@ -18,6 +18,8 @@ Component Progress:
         - further css code /w sass
         - hard coded HTML convert to liquid snippets
         - component CSS not done yet
+        - add pictures 
+        - add signatures
 
     for clarity
         - help with liquid
