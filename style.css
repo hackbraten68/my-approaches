@@ -1,0 +1,91 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html, body, p {
+    font-family: 'Lato', sans-serif;
+}
+
+.main-container {
+    width: 341px;
+}
+
+.FounderGuaranteeItem {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px;
+
+    background: #fafafa;
+    border-radius: 8px;
+}
+
+.FounderGuaranteeItem__Image {
+    position: static;
+    width: 309px;
+    height: 202px;
+    left: 16px;
+    top: 16px;
+
+    border: 1px red solid;
+}
+
+.FounderGuaranteeItem__Heading {
+    position: static;
+    width: 309px;
+    height: 26px;
+    left: calc(50% - 309px/2);
+    top: 0px;
+
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 8px 0px;
+
+    color: #333333;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.FounderGuaranteeItem__Text {
+    position: static;
+    width: 309px;
+    left: calc(50% - 309px/2);
+    top: 34px;
+
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 8px 0px;
+    
+
+    color: #333333;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.SignatureImageContainer {
+    display: flex;
+    flex-direction: row;    
+    margin: 0 auto;
+    
+}
+
+.SignatureImage__PlaceholderBlock {
+    width: 126px;
+    height: 126px;
+    
+    border: 1px red solid;
+}
+
+.Signature__Textcontainer {
+    margin-top: 5px;
+}
