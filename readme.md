@@ -17,7 +17,7 @@ Component Progress:
     needs to be done
         - further css code /w sass
         - hard coded HTML convert to liquid snippets
-        - component CSS not done yet
+        - component CSS not done yet ("Gordita" Font & spacing SignatureImage)
         - add pictures 
         - add signatures
 
