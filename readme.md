@@ -17,6 +17,10 @@ Component Progress:
         - hard coded HTML convert to liquid snippets
         - component CSS not done yet
 
+    for clarity
+        - help with liquid
+        - help /w sass
+
 Raised Questions:
     - why sass?
     - how to store data text in liquid
