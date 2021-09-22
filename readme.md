@@ -9,6 +9,7 @@ Task´s:
         -- link: 
 
 Component Progress:
+
     already done
         - hard code HTML & CSS
 
